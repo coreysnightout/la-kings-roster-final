@@ -8,9 +8,8 @@
       <img class="image" src="{{player.image}}" alt="" />
       <h3 (click)="goToDetailPage(player)"><em>{{player.name}}</em> #{{player.number}} {{player.position}} Age: {{player.age}}</h3>
       <div *ngIf="currentRoute === '/admin'">
-        {{player.birthplace}}{{player.age}}
+        {{player.birthplace}} {{player.age}}
         <hr>
-        <!-- <app-edit-player [selectedPlayer]="player"></app-edit-player> -->
       </div>
     </div>
     <app-edit-player [selectedPlayer]="player"></app-edit-player>

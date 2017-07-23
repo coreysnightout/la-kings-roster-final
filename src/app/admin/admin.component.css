@@ -1,0 +1,14 @@
+.admin-list {
+  display: flex;
+  flex-direction: row;
+}
+
+button {
+  width: 200px;
+  border-radius: 5px;
+  height: 35px;
+  margin-top: 20px;
+  border: none;
+  color: white;
+  background-color: black;
+}
