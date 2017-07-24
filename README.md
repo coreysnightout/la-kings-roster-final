@@ -1,3 +1,5 @@
+![screen shot 2017-07-24 at 12 51 56 pm](https://user-images.githubusercontent.com/25654531/28542113-091e0ab4-7070-11e7-993a-829e8129bbbc.png)
+
 # _{LA Kings Team Roster Page}_
 
 #### _{Create a website that manages the roster of a club, team, or group}, {Monday, July 24th, 2017}_
